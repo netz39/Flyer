@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="524.40942"
+   height="372.04724"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6246848"
+     inkscape:cx="262.20471"
+     inkscape:cy="186.02362"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1272"
+     inkscape:window-height="960"
+     inkscape:window-x="44"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-680.31492)">
+    <rect
+       style="fill:#f4d900;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3775"
+       width="524.40942"
+       height="372.04724"
+       x="0"
+       y="680.31494" />
+    <rect
+       style="fill:#f4e1c6;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10,5;stroke-dashoffset:0"
+       id="rect3773"
+       width="498.60474"
+       height="344.92813"
+       x="12.902344"
+       y="693.87445" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:#0000ff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;stroke-opacity:1;stroke-width:1.75;stroke-miterlimit:4;stroke-dasharray:none"
+       x="262.18127"
+       y="850.90106"
+       id="text2985"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan2997"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:150%;writing-mode:lr-tb;text-anchor:middle;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold;stroke:#0000ff;stroke-opacity:1;stroke-width:1.75;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00;fill-opacity:1"
+         x="262.18127"
+         y="850.90106">CLUB-MATE</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:150%;writing-mode:lr-tb;text-anchor:middle;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold;stroke:#0000ff;stroke-opacity:1;stroke-width:1.75;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00;fill-opacity:1"
+         x="262.18127"
+         y="898.90106">»Schmeckt Euch das Zeug?«</tspan></text>
+  </g>
+</svg>

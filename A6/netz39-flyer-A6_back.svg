@@ -15,7 +15,7 @@
    id="svg3202"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="flyerA6-back.svg"
+   sodipodi:docname="flyer-A6-back.svg"
    inkscape:export-filename="/nfs/daten/daten/grafik/netz39/A6/flyerA6-back.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -394,16 +394,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.04"
-     inkscape:cx="392.91933"
-     inkscape:cy="198.93922"
+     inkscape:zoom="2.08"
+     inkscape:cx="264.76507"
+     inkscape:cy="141.59591"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1282"
-     inkscape:window-height="907"
+     inkscape:window-width="1272"
+     inkscape:window-height="960"
      inkscape:window-x="351"
-     inkscape:window-y="167"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      units="mm" />
   <metadata
@@ -414,7 +414,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -513,9 +513,9 @@
            width="384.13702"
            id="rect4280" /></flowRegion><flowPara
          id="flowPara4300"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">Twitter:</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">Twitter/identi.ca:</flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara4360">  Netz39</flowPara><flowPara
+         id="flowPara4360">  @netz39</flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara4496" /><flowPara
          id="flowPara4304"
