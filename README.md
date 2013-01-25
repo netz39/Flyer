@@ -4,3 +4,7 @@
 Quelldateien sind Scalalable Vector Graphics (SVG). Bitte keine 
 exportierten Dateien einchecken. Diese können alternativ als Download zu 
 GitHub hochgeladen werden!
+
+Benötigte Schriftarten
+----------------------
+* [unifont](http://packages.debian.org/squeeze/ttf-unifont)
