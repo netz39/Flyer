@@ -15,7 +15,7 @@
    id="svg5661"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="netz39-flyer-A6_front.svg">
+   sodipodi:docname="netz39-flyer-A6_front_margin.svg">
   <defs
      id="defs5663">
     <linearGradient
@@ -577,6 +577,15 @@
          x="-4.9789171"
          y="-2.8475597" />
     </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter8679">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.68"
+         id="feGaussianBlur8681" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-units="mm"
@@ -585,9 +594,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="526.18109"
-     inkscape:cy="372.04724"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="534.74652"
+     inkscape:cy="329.09483"
      inkscape:current-layer="layer1"
      id="namedview5665"
      showgrid="false"
@@ -627,7 +636,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -635,42 +644,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       transform="matrix(0.95238096,0,0,0.95238096,26.74355,-630.20246)"
-       id="layer1-6"
-       inkscape:label="Layer 1">
-      <rect
-         y="680.31494"
-         x="0"
-         height="372.04724"
-         width="524.40942"
-         id="rect3775"
-         style="fill:#f4d900;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         y="693.87445"
-         x="12.902344"
-         height="344.92813"
-         width="498.60474"
-         id="rect3773"
-         style="fill:#f4e1c6;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10, 5;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="150%"
-         id="text2985"
-         y="850.90106"
-         x="262.18127"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:1.75;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         xml:space="preserve"><tspan
-           y="850.90106"
-           x="262.18127"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:150%;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:1.75;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
-           id="tspan2997"
-           sodipodi:role="line">CLUB-MATE</tspan><tspan
-           y="898.90106"
-           x="262.18127"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:150%;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:1.75;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
-           id="tspan3001"
-           sodipodi:role="line">»Schmeckt Euch das Zeug?«</tspan></text>
-    </g>
     <g
        transform="translate(510.01254,-671.68034)"
        id="layer1-1"
@@ -990,12 +963,12 @@
         <image
            sodipodi:absref="C:\Dokumente und Einstellungen\adahl\Eigene Dateien\GitHub\netz39-flyer\A4\../resources/leibniz32_front.jpeg"
            xlink:href="../resources/leibniz32_front.jpeg"
-           y="657.91492"
-           x="-17.93457"
-           id="image2993"
-           height="416.84726"
+           style="filter:url(#filter3086)"
            width="560.27856"
-           style="filter:url(#filter3086)" />
+           height="416.84726"
+           id="image2993"
+           x="-17.93457"
+           y="657.91492" />
       </g>
       <g
          inkscape:label="Layer 2"
@@ -1093,6 +1066,51 @@
            x="260.55737"
            y="940.98218"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#0194ce;fill-opacity:1;stroke:#000000;stroke-width:0.50773549;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:unifont;-inkscape-font-specification:unifont Bold">gesehen?</tspan></text>
+    </g>
+    <g
+       id="g9125"
+       transform="matrix(0.95238096,0,0,0.95238096,397.68061,85.577651)">
+      <rect
+         y="-71.254173"
+         x="-389.48392"
+         height="372.04724"
+         width="524.40942"
+         id="rect3775"
+         style="fill:#f4d900;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+      <rect
+         y="-57.694664"
+         x="-376.58157"
+         height="344.92813"
+         width="498.60474"
+         id="rect3773"
+         style="fill:#f4e1c6;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10, 5;stroke-dashoffset:0;display:inline" />
+      <path
+         id="text2985-1"
+         d="m -263.42143,-3.2541943 0,4.00000003 16,0 0,-4.00000003 -16,0 z m 16,4.00000003 0,3.99999997 0,4 4,0 0,-4 0,-3.99999997 -4,0 z m -16,0 -4,0 0,3.99999997 0,4 0,4.0000003 0,4 0,4 0,4 0,4 0,4.000001 4,0 0,-4.000001 0,-4 0,-4 0,-4 0,-4 0,-4.0000003 0,-4 0,-3.99999997 z m 0,32.00000127 0,4 16,0 0,-4 -16,0 z m 16,0 4,0 0,-4.000001 0,-4 -4,0 0,4 0,4.000001 z m 12,-36.0000013 0,4.00000003 0,3.99999997 0,4 0,4.0000003 0,4 0,4 0,4 0,4 0,4.000001 0,4 24,0 0,-4 -20,0 0,-4.000001 0,-4 0,-4 0,-4 0,-4 0,-4.0000003 0,-4 0,-3.99999997 0,-4.00000003 -4,0 z m 32,0 0,4.00000003 0,3.99999997 0,4 0,4.0000003 0,4 0,4 0,4 0,4 0,4.000001 4,0 0,-4.000001 0,-4 0,-4 0,-4 0,-4 0,-4.0000003 0,-4 0,-3.99999997 0,-4.00000003 -4,0 z m 4,36.0000013 0,4 16,0 0,-4 -16,0 z m 16,0 4,0 0,-4.000001 0,-4 0,-4 0,-4 0,-4 0,-4.0000003 0,-4 0,-3.99999997 0,-4.00000003 -4,0 0,4.00000003 0,3.99999997 0,4 0,4.0000003 0,4 0,4 0,4 0,4 0,4.000001 z m 12,-36.0000013 0,4.00000003 0,3.99999997 0,4 0,4.0000003 0,4 0,4 0,4 0,4 0,4.000001 0,4 20,0 0,-4 -16,0 0,-4.000001 0,-4 0,-4 0,-4 16,0 0,-4 -16,0 0,-4.0000003 0,-4 0,-3.99999997 16,0 0,-4.00000003 -20,0 z m 20,4.00000003 0,3.99999997 0,4 0,4.0000003 4,0 0,-4.0000003 0,-4 0,-3.99999997 -4,0 z m 0,16.00000027 0,4 0,4 0,4 0,4.000001 4,0 0,-4.000001 0,-4 0,-4 0,-4 -4,0 z m 44,-20.0000003 0,4.00000003 0,3.99999997 0,4 0,4.0000003 0,4 0,4 0,4 0,4 0,4.000001 0,4 4,0 0,-4 0,-4.000001 0,-4 0,-4 0,-4 0,-4 3.999998,0 0,-4.0000003 0,-4 -3.999998,0 0,-3.99999997 0,-4.00000003 -4,0 z m 7.999998,16.0000003 0,4 0,4 8,0 0,-4 0,-4 -8,0 z m 8,0 4,0 0,4 0,4 0,4 0,4 0,4.000001 0,4 4,0 0,-4 0,-4.000001 0,-4 0,-4 0,-4 0,-4 0,-4.0000003 0,-4 0,-3.99999997 0,-4.00000003 -4,0 0,4.00000003 0,3.99999997 -4,0 0,4 0,4.0000003 z m 24,-16.0000003 0,4.00000003 8,0 0,-4.00000003 -8,0 z m 8,4.00000003 0,3.99999997 0,4 4,0 0,-4 0,-3.99999997 -4,0 z m 4,7.99999997 0,4.0000003 0,4 -16,0 0,-4 0,-4.0000003 -4,0 0,4.0000003 0,4 0,4 0,4 0,4 0,4.000001 0,4 4,0 0,-4 0,-4.000001 0,-4 0,-4 16,0 0,4 0,4 0,4.000001 0,4 4,0 0,-4 0,-4.000001 0,-4 0,-4 0,-4 0,-4 0,-4.0000003 -4,0 z m -16,0 4,0 0,-4 0,-3.99999997 -4,0 0,3.99999997 0,4 z m 28,-12 0,4.00000003 12,0 0,3.99999997 0,4 0,4.0000003 0,4 0,4 0,4 0,4 0,4.000001 0,4 4,0 0,-4 0,-4.000001 0,-4 0,-4 0,-4 0,-4 0,-4.0000003 0,-4 0,-3.99999997 12,0 0,-4.00000003 -28,0 z m 32,0 0,4.00000003 0,3.99999997 0,4 0,4.0000003 0,4 0,4 0,4 0,4 0,4.000001 0,4 24,0 0,-4 -20.0000005,0 0,-4.000001 0,-4 0,-4 0,-4 16,0 0,-4 -16,0 0,-4.0000003 0,-4 0,-3.99999997 20.0000005,0 0,-4.00000003 -24,0 z m -127.999998,20.0000003 0,4 24,0 0,-4 -24,0 z m -112,72.000001 0,4 0,4 0,4.000003 0,4 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 4,0 0,-4 -4,0 0,-4 0,-4.000003 0,-4 0,-4 -4,0 z m 8,16.000003 12,0 0,-4 -12,0 0,4 z m 12,0 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 z m 299.999998,-16.000003 0,4 0,4 0,4.000003 0,4 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 4,0 0,-4 -4,0 0,-4 0,-4.000003 0,-4 0,-4 -4,0 z m 8,16.000003 12,0 0,-4 -12,0 0,4 z m 12,0 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 z m -399.999998,-12.000003 0,4 16,0 0,-4 -16,0 z m 16,4 0,4.000003 0,4 4,0 0,-4 0,-4.000003 -4,0 z m -16,0 -4,0 0,4.000003 0,4 0,4 4,0 0,-4 0,-4 0,-4.000003 z m 0,12.000003 0,4 8,0 0,-4 -8,0 z m 8,4 0,4 8,0 0,-4 -8,0 z m 8,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 -4,0 z m 0,12 -16,0 0,4 16,0 0,-4 z m -16,0 0,-4 0,-4 -4,0 0,4 0,4 4,0 z m 188,-36.000003 0,4 0,4.000003 0,4 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 4,0 0,-4 -4,0 0,-4 0,-4 0,-4 0,-4.000003 0,-4 -4,0 z m 8,20.000003 4,0 0,-4 -4,0 0,4 z m 4,-4 4,0 0,-4 -4,0 0,4 z m 4,-4 4,0 0,-4 -4,0 0,4 z m -8,12 0,4 4,0 0,-4 -4,0 z m 4,4 0,4 4,0 0,-4 -4,0 z m 4,4 0,4 4,0 0,-4 -4,0 z m 4,4 0,4 3.999998,0 0,-4 -3.999998,0 z m 19.999998,-36.000003 0,4 0,4.000003 -8,0 0,4 8,0 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 8,0 0,-4 -8,0 0,-4.000003 0,-4 -4,0 z m 4,36.000003 0,4 8,0 0,-4 -8,0 z m 52,-36.000003 0,4 0,4.000003 0,4 0,4 0,4 0,4 0,4 0,4 0,4 0,4 23.9999995,0 0,-4 -19.9999995,0 0,-4 0,-4 0,-4 0,-4 15.9999995,0 0,-4 -15.9999995,0 0,-4 0,-4 0,-4.000003 19.9999995,0 0,-4 -23.9999995,0 z m -319.999998,4 0,4.000003 0,4 4,0 0,-4 0,-4.000003 -4,0 z m 4,8.000003 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m 4,8 0,4 4,0 0,-4 -4,0 z m 0,4 -4,0 0,4 0,4 4,0 0,-4 0,-4 z m -4,8 -4,0 0,4 0,4 4,0 0,-4 0,-4 z m 8,-28.000003 0,4.000003 0,4 4,0 0,-4 0,-4.000003 -4,0 z m 4,8.000003 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m 4,8 0,4 4,0 0,-4 -4,0 z m 0,4 -4,0 0,4 0,4 4,0 0,-4 0,-4 z m -4,8 -4,0 0,4 0,4 4,0 0,-4 0,-4 z m 52,-24 0,4 16,0 0,-4 -16,0 z m 16,4 0,4 4,0 0,-4 -4,0 z m -16,0 -4,0 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 z m 0,24 0,4 16,0 0,-4 -16,0 z m 16,0 4,0 0,-4 -4,0 0,4 z m 44,-28 0,4 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 8,0 0,-4 -12,0 z m 12,4 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 z m 4,0 8,0 0,-4 -8,0 0,4 z m 8,0 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 z m 12,-4 0,4 16,0 0,-4 -16,0 z m 16,4 0,4 0,4 -16,0 0,-4 0,-4 -4,0 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 20,0 0,-4 0,-4 0,-4 -4,0 z m -16,24 0,4 16,0 0,-4 -16,0 z m 16,0 4,0 0,-4 -4,0 0,4 z m 16,-28 0,4 16,0 0,-4 -16,0 z m 16,4 0,4 4,0 0,-4 -4,0 z m -16,0 -4,0 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 z m 0,24 0,4 16,0 0,-4 -16,0 z m 16,0 4,0 0,-4 -4,0 0,4 z m 139.9999975,-28 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 z m 4,28 0,4 12.0000005,0 0,-4 -12.0000005,0 z m 12.0000005,0 4,0 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 0,4 0,4 0,4 0,4 0,4 0,4 -4,0 0,4 z m 20,-28 0,4 16,0 0,-4 -16,0 z m 16,4 0,4 4,0 0,-4 -4,0 z m -16,0 -4,0 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 z m 0,24 0,4 16,0 0,-4 -16,0 z m 16,0 4,0 0,-4 -4,0 0,4 z m -319.999998,56 0,4 0,4 0,4 0,4 -4,0 0,4 4,0 0,4 0,4 0,4 0,4 -4,0 0,4 4,0 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 z m -4,40 -12,0 0,4 12,0 0,-4 z m -12,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 0,4 0,4 0,4 0,4 0,4 0,4 4,0 z m 0,-24 12,0 0,-4 -12,0 0,4 z m 124,-12 0,4 20,0 0,4 0,4 4,0 0,-4 0,-4 0,-4 -24,0 z m 20,12 -4,0 0,4 4,0 0,-4 z m -4,4 -4,0 0,4 4,0 0,-4 z m -4,4 -4,0 0,4 4,0 0,-4 z m -4,4 -4,0 0,4 4,0 0,-4 z m -4,4 -4,0 0,4 0,4 0,4 24,0 0,-4 -20,0 0,-4 0,-4 z m 127.999998,-28 0,4 15.9999995,0 0,-4 -15.9999995,0 z m 15.9999995,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 -4,0 z m 0,12 -3.9999995,0 0,4 3.9999995,0 0,-4 z m -3.9999995,4 -4,0 0,4 0,4 4,0 0,-4 0,-4 z m -12,-16 -4,0 0,4 0,4 4,0 0,-4 0,-4 z m -16,0 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m 0,8 -4,0 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 z m -4,12 -12,0 0,4 0,4 0,4 16,0 0,-4 -12,0 0,-4 8,0 0,-4 z m 4,12 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m 0,8 -16,0 0,4 16,0 0,-4 z m -16,0 0,-4 0,-4 -4,0 0,4 0,4 4,0 z m 0,-20 0,-4 0,-4 0,-4 -4,0 0,4 0,4 0,4 4,0 z m 0,-12 12,0 0,-4 -12,0 0,4 z m 68,-8 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m 0,8 -4.0000005,0 0,4 0,4 4.0000005,0 0,-4 0,-4 z m -4.0000005,8 -4,0 0,4 4,0 0,-4 z m 0,4 0,4 0,4 4.0000005,0 0,-4 0,-4 -4.0000005,0 z m 4.0000005,8 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m 12,-28 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m 0,8 -4,0 0,4 0,4 4,0 0,-4 0,-4 z m -4,8 -4,0 0,4 4,0 0,-4 z m 0,4 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m 4,8 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m -271.999998,-24 0,4 16,0 0,-4 -16,0 z m 16,4 0,4 0,4 -16,0 0,4 16,0 0,4 0,4 -4,0 0,4 4,0 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 z m -4,24 -12,0 0,4 12,0 0,-4 z m -12,0 0,-4 0,-4 0,-4 -4,0 0,4 0,4 0,4 4,0 z m 0,-24 -4,0 0,4 4,0 0,-4 z m 32,-4 0,4 16,0 0,-4 -16,0 z m 16,4 0,4 4,0 0,-4 -4,0 z m -16,0 -4,0 0,4 0,4 4,0 0,-4 0,-4 z m 0,8 0,4 8,0 0,-4 -8,0 z m 8,4 0,4 8,0 0,-4 -8,0 z m 8,4 0,4 0,4 4,0 0,-4 0,-4 -4,0 z m 0,8 -16,0 0,4 16,0 0,-4 z m -16,0 0,-4 -4,0 0,4 4,0 z m 96,-28 0,4 16,0 0,-4 -16,0 z m 16,4 0,4 0,4 -16,0 0,-4 0,-4 -4,0 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 19.999998,0 0,-4 0,-4 0,-4 -3.999998,0 z m -16,24 0,4 16,0 0,-4 -16,0 z m 16,0 3.999998,0 0,-4 -3.999998,0 0,4 z m 11.999998,-28 0,4 0,4 0,4 0,4 0,4 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 z m 4,28 0,4 12,0 0,-4 -12,0 z m 12,0 4,0 0,4 4,0 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 0,-4 -4,0 0,4 0,4 0,4 0,4 0,4 0,4 -4,0 0,4 z m 60,-4 0,4 0,4 4,0 0,-4 0,-4 -4,0 z"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter8679);font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="150%"
+         id="text2985"
+         y="34.769447"
+         x="-129.27922"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="34.769447"
+           x="-129.27922"
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:150%;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:unifont;-inkscape-font-specification:unifont"
+           id="tspan2997"
+           sodipodi:role="line">CLUB-MATE</tspan><tspan
+           y="130.76944"
+           x="-113.27922"
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:150%;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:unifont;-inkscape-font-specification:unifont"
+           id="tspan3001"
+           sodipodi:role="line">»Schmeckt Euch </tspan><tspan
+           id="tspan8608"
+           y="226.76944"
+           x="-129.27922"
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:150%;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:unifont;-inkscape-font-specification:unifont"
+           sodipodi:role="line">das Zeug?«</tspan></text>
     </g>
   </g>
 </svg>
