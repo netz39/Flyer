@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-06-05T20:36:56.346171199</meta:creation-date><dc:date>2018-06-06T15:57:01.741233893</dc:date><meta:editing-duration>PT3H30M24S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:print-date>2018-06-05T22:07:07.834323443</meta:print-date><dc:creator>Alexander Dahl</dc:creator><meta:document-statistic meta:character-count="2947" meta:image-count="1" meta:non-whitespace-character-count="2575" meta:object-count="0" meta:page-count="2" meta:paragraph-count="33" meta:table-count="0" meta:word-count="408"/></office:meta>
+ <office:meta><meta:creation-date>2018-06-05T20:36:56.346171199</meta:creation-date><dc:date>2018-06-06T16:27:27.938186283</dc:date><meta:editing-duration>PT3H34M47S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:print-date>2018-06-05T22:07:07.834323443</meta:print-date><dc:creator>Alexander Dahl</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="2" meta:paragraph-count="33" meta:word-count="408" meta:character-count="2947" meta:non-whitespace-character-count="2575"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">21167</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">21802</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35165</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">21698</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">27353</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">40275</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8440</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">29016</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">21167</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">21802</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35163</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">42863</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">43498</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -69,7 +69,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2637848</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2749547</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -109,7 +109,7 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">qgH+/0VDT1NZU19NMzA0MGRuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpFQ09TWVNfTTMwNDBkbgAAAAAAAAAAAAAAAAAWAAMA0AAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9RUNPU1lTX00zMDQwZG4Kb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkR1cGxleDpOb25lAElucHV0U2xvdDpQRjQzMEEAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">qgH+/0VDT1NZU19NMzA0MGRuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpFQ09TWVNfTTMwNDBkbgAAAAAAAAAAAAAAAAAWAAMA0AAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9RUNPU1lTX00zMDQwZG4Kb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkE0AElucHV0U2xvdDpQRjQzMEEARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
@@ -149,8 +149,9 @@
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:keep-with-next="always" style:writing-mode="page"/>
    <style:text-properties style:font-name="Politics Head Bold" fo:font-family="&apos;Politics Head Bold&apos;" style:font-style-name="Fett" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC Regular" style:font-family-asian="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%"/>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
@@ -451,47 +452,92 @@
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:font-style="normal" officeooo:rsid="00232378" officeooo:paragraph-rsid="00232378" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00101f5e" officeooo:paragraph-rsid="00101f5e"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="000e2619"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="column"/>
-   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="000e2619"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="column"/>
-   <style:text-properties officeooo:rsid="00101f5e" officeooo:paragraph-rsid="00101f5e"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
-   <style:text-properties officeooo:rsid="001582b7" officeooo:paragraph-rsid="001582b7"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="000e2619"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0015bd77" officeooo:paragraph-rsid="0015bd77"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0015bd77" officeooo:paragraph-rsid="0015bd77"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0015bd77"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0011336b"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00101f5e" officeooo:paragraph-rsid="00101f5e"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="000e2619"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="column"/>
+   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="000e2619"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="column"/>
+   <style:text-properties officeooo:rsid="00101f5e" officeooo:paragraph-rsid="00101f5e"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="column"/>
    <style:text-properties officeooo:rsid="001582b7" officeooo:paragraph-rsid="001582b7"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="column"/>
    <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="001582b7"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="001582b7" officeooo:paragraph-rsid="001582b7"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="000e2619"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+   <style:text-properties officeooo:rsid="0015bd77" officeooo:paragraph-rsid="0015bd77"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0015bd77" officeooo:paragraph-rsid="0015bd77"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+   <style:text-properties officeooo:paragraph-rsid="0015bd77"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <style:text-properties officeooo:paragraph-rsid="0011336b"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0011336b" officeooo:paragraph-rsid="0011336b"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="column"/>
+   <style:text-properties officeooo:rsid="001582b7" officeooo:paragraph-rsid="001582b7"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="">
+   <style:paragraph-properties fo:break-before="column"/>
+   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="001582b7"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00101f5e" officeooo:paragraph-rsid="00101f5e"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
+   <style:text-properties officeooo:rsid="001582b7" officeooo:paragraph-rsid="001582b7"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="000e2619"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="000e2619"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="column"/>
+   <style:text-properties officeooo:rsid="000e2619" officeooo:paragraph-rsid="000e2619"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="column"/>
+   <style:text-properties officeooo:rsid="00101f5e" officeooo:paragraph-rsid="00101f5e"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
@@ -548,22 +594,22 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:h text:style-name="P11" text:outline-level="1"/>
-   <text:h text:style-name="P11" text:outline-level="1"/>
-   <text:h text:style-name="P11" text:outline-level="1"/>
-   <text:h text:style-name="P11" text:outline-level="1"/>
-   <text:h text:style-name="P11" text:outline-level="1"/>
-   <text:h text:style-name="P11" text:outline-level="1"/>
-   <text:h text:style-name="P11" text:outline-level="1"/>
-   <text:h text:style-name="P11" text:outline-level="1">Netz39 <text:span text:style-name="T8">Kontakt</text:span></text:h>
-   <text:h text:style-name="P13" text:outline-level="1">E-Mail:<text:tab/><text:span text:style-name="Internet_20_link">kontakt@netz39.de</text:span></text:h>
-   <text:h text:style-name="P15" text:outline-level="1"><text:span text:style-name="T8">Chat (XMPP):<text:tab/></text:span><text:a xlink:type="simple" xlink:href="mailto:lounge@conference.jabber.n39.eu" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">lounge@conference.jabber.n39.eu</text:a></text:h>
-   <text:h text:style-name="P13" text:outline-level="1">Twitter:<text:tab/>@netz39</text:h>
-   <text:h text:style-name="P13" text:outline-level="1">WWW:<text:tab/><text:a xlink:type="simple" xlink:href="http://www.netz39.de/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">http://www.netz39.de/</text:span></text:a></text:h>
-   <text:h text:style-name="P13" text:outline-level="1"><text:span text:style-name="Internet_20_link"/></text:h>
-   <text:h text:style-name="P14" text:outline-level="1">Netz39 e.V.<text:line-break/>Leibnizstraße 32<text:line-break/>39104 Magdeburg</text:h>
-   <text:h text:style-name="P17" text:outline-level="1"/>
-   <text:h text:style-name="P18" text:outline-level="1"><draw:frame draw:style-name="fr1" draw:name="Bild1" text:anchor-type="paragraph" svg:y="9.454cm" svg:width="7.964cm" svg:height="7.964cm" draw:z-index="0"><draw:image>
+   <text:h text:style-name="P27" text:outline-level="1"/>
+   <text:h text:style-name="P27" text:outline-level="1"/>
+   <text:h text:style-name="P27" text:outline-level="1"/>
+   <text:h text:style-name="P27" text:outline-level="1"/>
+   <text:h text:style-name="P27" text:outline-level="1"/>
+   <text:h text:style-name="P27" text:outline-level="1"/>
+   <text:h text:style-name="P27" text:outline-level="1"/>
+   <text:h text:style-name="P27" text:outline-level="1">Netz39 <text:span text:style-name="T8">Kontakt</text:span></text:h>
+   <text:h text:style-name="P19" text:outline-level="1">E-Mail:<text:tab/><text:span text:style-name="Internet_20_link">kontakt@netz39.de</text:span></text:h>
+   <text:h text:style-name="P21" text:outline-level="1"><text:span text:style-name="T8">Chat (XMPP):<text:tab/></text:span><text:a xlink:type="simple" xlink:href="mailto:lounge@conference.jabber.n39.eu" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">lounge@conference.jabber.n39.eu</text:a></text:h>
+   <text:h text:style-name="P19" text:outline-level="1">Twitter:<text:tab/>@netz39</text:h>
+   <text:h text:style-name="P19" text:outline-level="1">WWW:<text:tab/><text:a xlink:type="simple" xlink:href="http://www.netz39.de/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">http://www.netz39.de/</text:span></text:a></text:h>
+   <text:h text:style-name="P19" text:outline-level="1"><text:span text:style-name="Internet_20_link"/></text:h>
+   <text:h text:style-name="P20" text:outline-level="1">Netz39 e.V.<text:line-break/>Leibnizstraße 32<text:line-break/>39104 Magdeburg</text:h>
+   <text:h text:style-name="P24" text:outline-level="1"/>
+   <text:h text:style-name="P25" text:outline-level="1"><draw:frame draw:style-name="fr1" draw:name="Bild1" text:anchor-type="paragraph" svg:y="9.454cm" svg:width="7.964cm" svg:height="7.964cm" draw:z-index="0"><draw:image>
       <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+
        CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8p
        IC0tPgoKPHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEu
@@ -668,8 +714,8 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:h>
-   <text:h text:style-name="P12" text:outline-level="1">Nachhaltigkeit im Netz39</text:h>
-   <text:h text:style-name="P8" text:outline-level="2">Reparieren statt Wegwerfen</text:h>
+   <text:h text:style-name="P18" text:outline-level="1">Nachhaltigkeit im Netz39</text:h>
+   <text:h text:style-name="P12" text:outline-level="2">Reparieren statt Wegwerfen</text:h>
    <text:p text:style-name="P1">Das Verlängern der Lebensdauer unserer Dinge spart Rohstoffe. Reparierte Dinge müssen nicht aus wertvollen Materialien neu produziert werden, sondern werden weiter genutzt.</text:p>
    <text:p text:style-name="P1">Reparieren bildet. Wer Dinge auseinander nimmt, lernt wie sie funktionieren.</text:p>
    <text:p text:style-name="P1">Oft kann man Geld sparen, wenn man Sachen repariert, statt sie zu ersetzen.</text:p>
@@ -678,32 +724,32 @@
    <text:p text:style-name="P5">Verbrauchsmaterialien wollen wir selbst einfach ersetzen können. Ersatzteile müssen leicht erhältlich und günstig sein.</text:p>
    <text:p text:style-name="P6">Im Netz39 haben wir Werkzeug und KnowHow <text:span text:style-name="T9">zur Reparatur von diversen Dingen und Geräten.</text:span></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4">Wenn Du es nicht reparieren kannst, dann gehört es Dir nicht!</text:h>
-   <text:h text:style-name="P9" text:outline-level="2">Freie Software</text:h>
+   <text:h text:style-name="P13" text:outline-level="2">Freie Software</text:h>
    <text:p text:style-name="P3">„Frei“ in „Freie Software“ bezieht sich auf Freiheit, nicht auf den Preis. Folgende vier Freiheiten sind gemeint:</text:p>
-   <text:list xml:id="list2197148909935918521" text:style-name="List_20_1">
+   <text:list xml:id="list5589526073975203354" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P16"><text:span text:style-name="T4">Die Freiheit, das Programm für jeden Zweck auszuführen (</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T4">verwenden</text:span></text:span><text:span text:style-name="T4">)</text:span></text:p>
+     <text:p text:style-name="P22"><text:span text:style-name="T4">Die Freiheit, das Programm für jeden Zweck auszuführen (</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T4">verwenden</text:span></text:span><text:span text:style-name="T4">)</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16"><text:span text:style-name="T4">Die Freiheit, die Funktionsweise eines Programms zu untersuchen, und es an seine Bedürfnisse anzupassen (</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T4">verstehen</text:span></text:span><text:span text:style-name="T4">)</text:span></text:p>
+     <text:p text:style-name="P22"><text:span text:style-name="T4">Die Freiheit, die Funktionsweise eines Programms zu untersuchen, und es an seine Bedürfnisse anzupassen (</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T4">verstehen</text:span></text:span><text:span text:style-name="T4">)</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16"><text:span text:style-name="T4">Die Freiheit, Kopien weiterzugeben und damit seinen Mitmenschen zu helfen (</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T4">verbreiten</text:span></text:span><text:span text:style-name="T4">)</text:span></text:p>
+     <text:p text:style-name="P22"><text:span text:style-name="T4">Die Freiheit, Kopien weiterzugeben und damit seinen Mitmenschen zu helfen (</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T4">verbreiten</text:span></text:span><text:span text:style-name="T4">)</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16"><text:span text:style-name="T4">Die Freiheit, ein Programm zu verbessern, und die Verbesserungen an die Öffentlichkeit weiterzugeben, sodass die gesamte Gesellschaft profitiert (</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T4">verbessern</text:span></text:span><text:span text:style-name="T4">)</text:span></text:p>
+     <text:p text:style-name="P22"><text:span text:style-name="T4">Die Freiheit, ein Programm zu verbessern, und die Verbesserungen an die Öffentlichkeit weiterzugeben, sodass die gesamte Gesellschaft profitiert (</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T4">verbessern</text:span></text:span><text:span text:style-name="T4">)</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3">Freie Software ist <text:span text:style-name="T5">ökologisch </text:span>nachhaltig. <text:span text:style-name="T6">Alte Notebooks und PCs können mit effizienten Linux-Distributionen länger verwendet werden, ohne auf aktuelle Software verzichten zu müssen. Die Gemeinschaft pflegt die Software länger als kommerzielle Firmen. Router werden bspw. noch weiter unterstützt, wenn die Hersteller den Support längst eingestellt haben.</text:span></text:p>
    <text:p text:style-name="P4">Die Free Software Foundation Europe (FSFE) <text:span text:style-name="T7">fördert und unterstützt die Verbreitung freier Software: </text:span><text:span text:style-name="Internet_20_link"><text:span text:style-name="T2">fsfe.org</text:span></text:span></text:p>
-   <text:h text:style-name="P10" text:outline-level="2">Veranstaltungen im Netz39</text:h>
-   <text:h text:style-name="P7" text:outline-level="3">Linux Presentation Day</text:h>
+   <text:h text:style-name="P14" text:outline-level="2">Veranstaltungen im Netz39</text:h>
+   <text:h text:style-name="P11" text:outline-level="3">Linux Presentation Day</text:h>
    <text:p text:style-name="P2">Ein bis zwei Mal im Jahr stellen wir das freie Betriebssystem und freie Anwendungen vor. Neugierige Nutzer können zuhören, ausprobieren, fragen, installieren, …</text:p>
    <text:p text:style-name="P3">Der LPD 2018.2 wird am <text:span text:style-name="T3">10. November 2018</text:span> stattfinden.</text:p>
-   <text:h text:style-name="P7" text:outline-level="3">Linux Stammtisch</text:h>
+   <text:h text:style-name="P11" text:outline-level="3">Linux Stammtisch</text:h>
    <text:p text:style-name="P2">Wir wollen die Tradition der Linux User Group (MDLUG) wiederbeleben. Alle sechs Wochen sind alle interessierten Linux-Nutzer*innen und solche, die es werden wollen, in den Hackerspace eingeladen, um sich persönlich vor Ort über Themen rund um Linux auszutauschen.</text:p>
    <text:p text:style-name="P3">Die nächsten Termine: <text:span text:style-name="T3">20. Juni 2018</text:span>, <text:span text:style-name="T3">1. August 2018</text:span> und <text:span text:style-name="T3">12. September 2018</text:span>.</text:p>
-   <text:h text:style-name="P7" text:outline-level="3">Repair Café</text:h>
+   <text:h text:style-name="P11" text:outline-level="3">Repair Café</text:h>
    <text:p text:style-name="P2">Ab und zu veranstalten wir ein sogenanntes Repair Café. Ihr könnt mit Euren kaputten Dingen, Sachen und Geräten zu uns kommen und wir versuchen sie gemeinsam zu reparieren. <text:span text:style-name="T4">(Der nächste Termin steht noch nicht fest. Es besteht die Möglichkeit individuell nach Absprache Dinge mit uns zu reparieren.)</text:span></text:p>
   </office:text>
  </office:body>
