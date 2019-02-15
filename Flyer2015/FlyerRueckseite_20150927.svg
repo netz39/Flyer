@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="524.4707"
+   height="370.89792"
+   id="svg2986"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="FlyerRueckseite_20150927.svg">
+  <defs
+     id="defs2988">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4103" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3650">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3652"
+         d="m 0,680.31486 524.40945,0 0,372.04724 -524.40945,0 z"
+         style="fill:url(#linearGradient3654);fill-opacity:1;stroke:none" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4005-5"
+       id="linearGradient3207"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-15.586561,412.8609)"
+       x1="132.84013"
+       y1="550.31641"
+       x2="302.65936"
+       y2="550.31641" />
+    <linearGradient
+       id="linearGradient4005-5">
+      <stop
+         id="stop4007-6"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3858-4" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="204.45728"
+     inkscape:cy="110.096"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3025"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
+     inkscape:window-y="1077"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2991">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Hintergrund"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.356367,-14.336102)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     transform="translate(-14.356367,-14.336102)">
+    <g
+       id="g3025"
+       transform="matrix(0.86443794,0,0,0.86443794,10.682506,9.8788436)">
+      <rect
+         height="428.94296"
+         y="5.2193232"
+         x="4.2857165"
+         width="606.64789"
+         id="rect2994"
+         style="opacity:0.45493562;fill:#a552f3;fill-opacity:0.74336283999999986;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(-28.571429,315.71429)"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Delphine;-inkscape-font-specification:Delphine"
+         id="flowRoot3765"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3767"><rect
+             style="font-size:24px;fill:#1a1a1a"
+             y="38.076469"
+             x="42.857143"
+             height="232.85715"
+             width="669.99994"
+             id="rect3769" /></flowRegion><flowPara
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;fill:#1a1a1a;font-family:unifont;-inkscape-font-specification:unifont Medium"
+           id="flowPara3785">Magdeburgs Nerdspielplatz:</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;fill:#1a1a1a;font-family:unifont;-inkscape-font-specification:unifont Medium"
+           id="flowPara3807">Glückliche Hacker in artgerechter Neulandhaltung.</flowPara><flowPara
+           id="flowPara3805" /><flowPara
+           id="flowPara3799" /></flowRoot>      <rect
+         ry="0"
+         y="219.98804"
+         x="289.80606"
+         height="124.04781"
+         width="306.49362"
+         id="rect4472"
+         style="opacity:0.86695275000000005;fill:#ffff70;fill-opacity:0.95294118;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4474"
+         y="225.55574"
+         x="583.05286"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f60000;fill-opacity:1;stroke:none;font-family:unifont;-inkscape-font-specification:unifont Medium"
+         xml:space="preserve"><tspan
+           id="tspan4478"
+           style="font-size:18px;text-align:end;text-anchor:end;fill:#f60000;fill-opacity:1"
+           y="225.55574"
+           x="583.05286"
+           sodipodi:role="line" /><tspan
+           id="tspan4490"
+           style="font-size:16px;text-align:end;text-anchor:end;fill:#f60000;fill-opacity:1"
+           y="246.01195"
+           x="583.05286"
+           sodipodi:role="line">@netz39</tspan><tspan
+           id="tspan4492"
+           style="font-size:16px;text-align:end;text-anchor:end;fill:#f60000;fill-opacity:1"
+           y="266.01193"
+           x="583.05286"
+           sodipodi:role="line">netz39.de</tspan><tspan
+           id="tspan4482"
+           style="font-size:16px;text-align:end;text-anchor:end;fill:#f60000;fill-opacity:1"
+           y="286.01193"
+           x="583.05286"
+           sodipodi:role="line">facebook.com/netz39</tspan><tspan
+           id="tspan4480"
+           style="font-size:16px;text-align:end;text-anchor:end;fill:#f60000;fill-opacity:1"
+           y="306.01193"
+           x="583.05286"
+           sodipodi:role="line">irc #netz39 (Freenode)</tspan><tspan
+           id="tspan4484"
+           style="font-size:16px;text-align:end;text-anchor:end;fill:#f60000;fill-opacity:1"
+           y="326.01193"
+           x="583.05286"
+           sodipodi:role="line">Leibnizstraße 32 // 39104 Magdeburg</tspan><tspan
+           id="tspan4486"
+           style="font-size:18px;text-align:end;text-anchor:end;fill:#f60000;fill-opacity:1"
+           y="346.01193"
+           x="583.05286"
+           sodipodi:role="line" /></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4517"
+         y="44.229942"
+         x="591.85284"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:unifont;-inkscape-font-specification:unifont Medium"
+         xml:space="preserve"><tspan
+           style="font-size:14px;text-align:end;text-anchor:end"
+           y="44.229942"
+           x="591.85284"
+           id="tspan4519"
+           sodipodi:role="line">++ 3D-Druck ++ Open-Source ++ Freifunk ++</tspan><tspan
+           style="font-size:14px;text-align:end;text-anchor:end"
+           id="tspan4521"
+           y="61.729942"
+           x="591.85284"
+           sodipodi:role="line">++ Keysigning ++ TechTalk ++</tspan><tspan
+           style="font-size:14px;text-align:end;text-anchor:end"
+           id="tspan4523"
+           y="79.229942"
+           x="591.85284"
+           sodipodi:role="line">++ Löten ++ PCB-etching ++</tspan><tspan
+           id="tspan4537"
+           style="font-size:14px;text-align:end;text-anchor:end"
+           y="96.729942"
+           x="591.85284"
+           sodipodi:role="line">++ Multicopter ++ Holzwerkstatt ++</tspan><tspan
+           style="font-size:14px;text-align:end;text-anchor:end"
+           id="tspan4525"
+           y="114.22994"
+           x="591.85284"
+           sodipodi:role="line">++ Nähmaschine ++ Coden ++ SocialSoljanka ++</tspan><tspan
+           id="tspan4527"
+           style="font-size:14px;text-align:end;text-anchor:end"
+           y="131.72995"
+           x="591.85284"
+           sodipodi:role="line">++ Raumschiffparkplatz ++ Luftschlossdesign ++</tspan></text>
+      <rect
+         style="opacity:0.86695275000000005;fill:#f8f379;fill-opacity:0.88627452;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4881"
+         width="161.77664"
+         height="162.78679"
+         x="35.189713"
+         y="32.318985" />
+      <rect
+         y="54.156685"
+         x="56.568481"
+         height="119.1114"
+         width="119.01911"
+         id="rect4099"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         transform="matrix(0.36240576,0,0,0.37684213,70.77732,66.607116)"
+         id="g4094">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="0"
+           y="0"
+           width="250"
+           height="250"
+           id="rect4083" />
+        <g
+           id="elements">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#000000"
+             d="m 0,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 50,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z M 0,10 10,10 10,20 0,20 z m 60,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 60,0 10,0 0,10 -10,0 z M 0,20 10,20 10,30 0,30 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z M 0,30 10,30 10,40 0,40 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z M 0,40 10,40 10,50 0,50 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 60,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z M 0,50 10,50 10,60 0,60 z m 60,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 60,0 10,0 0,10 -10,0 z M 0,60 10,60 10,70 0,70 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m -120,10 10,0 0,10 -10,0 z M 0,80 10,80 10,90 0,90 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z M 0,90 l 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 80,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m -220,10 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m -220,10 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 50,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 50,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 50,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 50,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m -230,10 10,0 0,10 -10,0 z m 60,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m -140,10 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 60,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m -220,10 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 60,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 40,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 50,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 50,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 60,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m -240,10 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 30,0 10,0 0,10 -10,0 z m 20,0 10,0 0,10 -10,0 z m 50,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z m 10,0 10,0 0,10 -10,0 z"
+             id="path4086" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
