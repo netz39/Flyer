@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="151.99998mm"
+   height="109mm"
+   id="svg2986"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="FlyerRueckseite_2018-11-11.svg">
+  <defs
+     id="defs2988">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 561.25983 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_z="793.70078 : 561.25983 : 1"
+       inkscape:persp3d-origin="396.85039 : 374.17322 : 1"
+       id="perspective4103" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3650">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3652"
+         d="M 0,680.31486 H 524.40945 V 1052.3621 H 0 Z"
+         style="fill:url(#linearGradient3654);fill-opacity:1;stroke:none" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4005-5"
+       id="linearGradient3207"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-15.586561,412.8609)"
+       x1="132.84013"
+       y1="550.31641"
+       x2="302.65936"
+       y2="550.31641" />
+    <linearGradient
+       id="linearGradient4005-5">
+      <stop
+         id="stop4007-6"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3858-4" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.04"
+     inkscape:cx="232.42003"
+     inkscape:cy="114.31753"
+     inkscape:document-units="px"
+     inkscape:current-layer="g911"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="2274"
+     inkscape:window-y="656"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:measure-start="4.89575e-07,411.969"
+     inkscape:measure-end="34.7582,411.969"
+     units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4529" />
+    <sodipodi:guide
+       position="39.344882,366.60882"
+       orientation="1,0"
+       inkscape:locked="false"
+       id="guide4533" />
+    <sodipodi:guide
+       position="4.895752e-07,411.9685"
+       orientation="1,0"
+       inkscape:locked="false"
+       id="guide4535" />
+    <sodipodi:guide
+       position="4.895752e-07,411.9685"
+       orientation="0,1"
+       id="guide4541"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="574.48814,411.9685"
+       orientation="1,0"
+       id="guide4543"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="535.12852,209.01688"
+       orientation="1,0"
+       id="guide4545"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="186.21508,372.62362"
+       orientation="0,1"
+       id="guide4547"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="386.81319,41.758242"
+       orientation="0,1"
+       id="guide4555"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2991">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Hintergrund"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.9878698,-51.061147)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     transform="translate(2.9878698,-51.061147)">
+    <g
+       id="g911"
+       transform="matrix(1,0,0,0.95970132,-8.8212605,10.110259)">
+      <rect
+         height="429.26743"
+         y="42.670456"
+         x="5.8333864"
+         width="574.48816"
+         id="rect2994"
+         style="opacity:0.86695275;fill:#e3dbdb;fill-opacity:0.74336285;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.53898525px;line-height:0.01%;font-family:Delphine;-inkscape-font-specification:Delphine;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.87824881"
+         id="flowRoot3765"
+         xml:space="preserve"
+         transform="matrix(0.95826251,0,0,1,17.78342,-2.0151757)"><flowRegion
+           style="stroke-width:0.87824881"
+           id="flowRegion3767"><rect
+             style="font-size:21.0779705px;fill:#1a1a1a;stroke-width:0.77132094"
+             y="387.2876"
+             x="27.489979"
+             height="204.5065"
+             width="588.42664"
+             id="rect3769" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.56497574px;line-height:1.25;font-family:unifont;-inkscape-font-specification:'unifont Medium';text-align:start;text-anchor:start;fill:#1a1a1a;stroke-width:0.87824881"
+           id="flowPara3785">Magdeburgs Nerdspielplatz:</flowPara><flowPara
+           style="font-size:21.0779705px;line-height:1.25;stroke-width:0.87824881"
+           id="flowPara3799"><flowSpan
+   id="flowSpan4549"
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.0779705px;line-height:1.25;font-family:unifont;-inkscape-font-specification:'unifont Medium';text-align:start;text-anchor:start;fill:#1a1a1a;stroke-width:0.87824881">Glückliche Hacker in artgerechter Neulandhaltung.</flowSpan> </flowPara></flowRoot>      <rect
+         ry="0"
+         y="254.1442"
+         x="251.59761"
+         height="104.53659"
+         width="289.36432"
+         id="rect4472"
+         style="opacity:0.53648065;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4474"
+         y="254.76715"
+         x="531.78821"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:unifont;-inkscape-font-specification:'unifont Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           id="tspan4478"
+           style="font-size:16.34144211px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+           y="254.76715"
+           x="539.95892"
+           sodipodi:role="line"> </tspan><tspan
+           id="tspan4490"
+           style="font-size:14.52572727px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+           y="273.37823"
+           x="531.78821"
+           sodipodi:role="line">@netz39</tspan><tspan
+           id="tspan4492"
+           style="font-size:14.52572727px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+           y="291.5354"
+           x="531.78821"
+           sodipodi:role="line">kontakt@netz39.de</tspan><tspan
+           id="tspan4482"
+           style="font-size:14.52572727px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+           y="309.69257"
+           x="531.78821"
+           sodipodi:role="line">facebook.com/netz39</tspan><tspan
+           id="tspan4480"
+           style="font-size:14.52572727px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+           y="327.8497"
+           x="531.78821"
+           sodipodi:role="line">lounge@conference.jabber.n39.eu</tspan><tspan
+           id="tspan4484"
+           style="font-size:14.52572727px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+           y="346.00687"
+           x="531.78821"
+           sodipodi:role="line">Leibnizstraße 32 // 39104 Magdeburg</tspan><tspan
+           id="tspan4486"
+           style="font-size:14.52572727px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+           y="364.16403"
+           x="539.05109"
+           sodipodi:role="line"> </tspan></text>
+      <rect
+         id="rect4083"
+         height="85.529778"
+         width="82.253235"
+         y="121.06358"
+         x="59.698067"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.33550206" />
+      <g
+         id="g4527"
+         transform="matrix(0.30844964,0,0,0.32073419,77.48676,114.79597)">
+        <rect
+           transform="matrix(3.2420203,0,0,3.1178225,-193.54234,-377.45475)"
+           style="opacity:0.86695275;fill:#b4b0b0;fill-opacity:0.83529621;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4881"
+           width="146.87021"
+           height="147.78728"
+           x="27.389578"
+           y="89.93483" />
+        <rect
+           transform="matrix(3.2420203,0,0,3.1178225,-193.54234,-377.45475)"
+           y="109.76036"
+           x="46.798477"
+           height="108.13624"
+           width="108.05246"
+           id="rect4099"
+           style="opacity:0.86695275;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path4086"
+           d="M 0,0 H 10.666667 V 10.666667 H 0 Z M 10.666667,0 H 21.333333 V 10.666667 H 10.666667 Z M 21.333333,0 H 32 V 10.666667 H 21.333333 Z M 32,0 H 42.666667 V 10.666667 H 32 Z M 42.666667,0 H 53.333333 V 10.666667 H 42.666667 Z M 53.333333,0 H 64 V 10.666667 H 53.333333 Z M 64,0 H 74.666667 V 10.666667 H 64 Z m 32,0 h 10.66667 V 10.666667 H 96 Z m 42.66667,0 h 10.66666 V 10.666667 H 138.66667 Z M 192,0 h 10.66667 V 10.666667 H 192 Z m 10.66667,0 h 10.66666 v 10.666667 h -10.66666 z m 10.66666,0 H 224 V 10.666667 H 213.33333 Z M 224,0 h 10.66667 V 10.666667 H 224 Z m 10.66667,0 h 10.66666 v 10.666667 h -10.66666 z m 10.66666,0 H 256 V 10.666667 H 245.33333 Z M 256,0 h 10.66667 V 10.666667 H 256 Z M 0,10.666667 H 10.666667 V 21.333333 H 0 Z m 64,0 H 74.666667 V 21.333333 H 64 Z m 21.333333,0 H 96 V 21.333333 H 85.333333 Z m 10.666667,0 h 10.66667 V 21.333333 H 96 Z m 21.33333,0 H 128 v 10.666666 h -10.66667 z m 10.66667,0 h 10.66667 V 21.333333 H 128 Z m 10.66667,0 h 10.66666 v 10.666666 h -10.66666 z m 10.66666,0 H 160 v 10.666666 h -10.66667 z m 10.66667,0 h 10.66667 V 21.333333 H 160 Z m 10.66667,0 h 10.66666 v 10.666666 h -10.66666 z m 21.33333,0 h 10.66667 V 21.333333 H 192 Z m 64,0 h 10.66667 V 21.333333 H 256 Z M 0,21.333333 H 10.666667 V 32 H 0 Z m 21.333333,0 H 32 V 32 H 21.333333 Z m 10.666667,0 H 42.666667 V 32 H 32 Z m 10.666667,0 H 53.333333 V 32 H 42.666667 Z m 21.333333,0 H 74.666667 V 32 H 64 Z m 32,0 h 10.66667 V 32 H 96 Z m 10.66667,0 h 10.66666 V 32 h -10.66666 z m 10.66666,0 H 128 V 32 h -10.66667 z m 42.66667,0 h 10.66667 V 32 H 160 Z m 32,0 h 10.66667 V 32 H 192 Z m 21.33333,0 H 224 V 32 h -10.66667 z m 10.66667,0 h 10.66667 V 32 H 224 Z m 10.66667,0 h 10.66666 V 32 h -10.66666 z m 21.33333,0 h 10.66667 V 32 H 256 Z M 0,32 H 10.666667 V 42.666667 H 0 Z m 21.333333,0 H 32 V 42.666667 H 21.333333 Z M 32,32 H 42.666667 V 42.666667 H 32 Z m 10.666667,0 H 53.333333 V 42.666667 H 42.666667 Z M 64,32 H 74.666667 V 42.666667 H 64 Z m 21.333333,0 H 96 V 42.666667 H 85.333333 Z M 96,32 h 10.66667 V 42.666667 H 96 Z m 21.33333,0 H 128 v 10.666667 h -10.66667 z m 21.33334,0 h 10.66666 v 10.666667 h -10.66666 z m 10.66666,0 H 160 v 10.666667 h -10.66667 z m 21.33334,0 h 10.66666 V 42.666667 H 170.66667 Z M 192,32 h 10.66667 V 42.666667 H 192 Z m 21.33333,0 H 224 V 42.666667 H 213.33333 Z M 224,32 h 10.66667 V 42.666667 H 224 Z m 10.66667,0 h 10.66666 V 42.666667 H 234.66667 Z M 256,32 h 10.66667 V 42.666667 H 256 Z M 0,42.666667 H 10.666667 V 53.333333 H 0 Z m 21.333333,0 H 32 V 53.333333 H 21.333333 Z m 10.666667,0 H 42.666667 V 53.333333 H 32 Z m 10.666667,0 H 53.333333 V 53.333333 H 42.666667 Z m 21.333333,0 H 74.666667 V 53.333333 H 64 Z m 42.66667,0 h 10.66666 v 10.666666 h -10.66666 z m 21.33333,0 h 10.66667 V 53.333333 H 128 Z m 64,0 h 10.66667 V 53.333333 H 192 Z m 21.33333,0 H 224 v 10.666666 h -10.66667 z m 10.66667,0 h 10.66667 V 53.333333 H 224 Z m 10.66667,0 h 10.66666 v 10.666666 h -10.66666 z m 21.33333,0 h 10.66667 V 53.333333 H 256 Z M 0,53.333333 H 10.666667 V 64 H 0 Z m 64,0 H 74.666667 V 64 H 64 Z m 21.333333,0 H 96 V 64 H 85.333333 Z m 21.333337,0 h 10.66666 V 64 h -10.66666 z m 42.66666,0 H 160 V 64 h -10.66667 z m 10.66667,0 h 10.66667 V 64 H 160 Z m 10.66667,0 h 10.66666 V 64 h -10.66666 z m 21.33333,0 h 10.66667 V 64 H 192 Z m 64,0 h 10.66667 V 64 H 256 Z M 0,64 H 10.666667 V 74.666667 H 0 Z m 10.666667,0 H 21.333333 V 74.666667 H 10.666667 Z m 10.666666,0 H 32 V 74.666667 H 21.333333 Z M 32,64 H 42.666667 V 74.666667 H 32 Z m 10.666667,0 H 53.333333 V 74.666667 H 42.666667 Z m 10.666666,0 H 64 V 74.666667 H 53.333333 Z M 64,64 H 74.666667 V 74.666667 H 64 Z m 21.333333,0 H 96 V 74.666667 H 85.333333 Z m 21.333337,0 h 10.66666 V 74.666667 H 106.66667 Z M 128,64 h 10.66667 V 74.666667 H 128 Z m 21.33333,0 H 160 v 10.666667 h -10.66667 z m 21.33334,0 h 10.66666 V 74.666667 H 170.66667 Z M 192,64 h 10.66667 V 74.666667 H 192 Z m 10.66667,0 h 10.66666 v 10.666667 h -10.66666 z m 10.66666,0 H 224 V 74.666667 H 213.33333 Z M 224,64 h 10.66667 V 74.666667 H 224 Z m 10.66667,0 h 10.66666 v 10.666667 h -10.66666 z m 10.66666,0 H 256 V 74.666667 H 245.33333 Z M 256,64 h 10.66667 V 74.666667 H 256 Z M 128,74.666667 h 10.66667 V 85.333333 H 128 Z M 0,85.333333 H 10.666667 V 96 H 0 Z m 10.666667,0 H 21.333333 V 96 H 10.666667 Z m 10.666666,0 H 32 V 96 H 21.333333 Z m 10.666667,0 H 42.666667 V 96 H 32 Z m 10.666667,0 H 53.333333 V 96 H 42.666667 Z m 21.333333,0 H 74.666667 V 96 H 64 Z m 10.666667,0 H 85.333333 V 96 H 74.666667 Z m 10.666666,0 H 96 V 96 H 85.333333 Z m 10.666667,0 h 10.66667 V 96 H 96 Z m 10.66667,0 h 10.66666 V 96 h -10.66666 z m 21.33333,0 h 10.66667 V 96 H 128 Z m 10.66667,0 h 10.66666 V 96 h -10.66666 z m 10.66666,0 H 160 V 96 h -10.66667 z m 10.66667,0 h 10.66667 V 96 H 160 Z m 10.66667,0 h 10.66666 V 96 h -10.66666 z m 10.66666,0 H 192 V 96 h -10.66667 z m 21.33334,0 h 10.66666 V 96 h -10.66666 z m 21.33333,0 h 10.66667 V 96 H 224 Z m 21.33333,0 H 256 V 96 H 245.33333 Z M 0,96 h 10.666667 v 10.66667 H 0 Z m 42.666667,0 h 10.666666 v 10.66667 H 42.666667 Z m 42.666666,0 H 96 v 10.66667 H 85.333333 Z M 96,96 h 10.66667 v 10.66667 H 96 Z m 85.33333,0 H 192 v 10.66667 h -10.66667 z m 21.33334,0 h 10.66666 v 10.66667 h -10.66666 z m 42.66666,0 H 256 v 10.66667 H 245.33333 Z M 10.666667,106.66667 h 10.666666 v 10.66666 H 10.666667 Z m 10.666666,0 H 32 v 10.66666 H 21.333333 Z m 42.666667,0 h 10.666667 v 10.66666 H 64 Z m 10.666667,0 h 10.666666 v 10.66666 H 74.666667 Z m 10.666666,0 H 96 v 10.66666 H 85.333333 Z m 10.666667,0 h 10.66667 v 10.66666 H 96 Z m 21.33333,0 H 128 v 10.66666 h -10.66667 z m 10.66667,0 h 10.66667 v 10.66666 H 128 Z m 21.33333,0 H 160 v 10.66666 h -10.66667 z m 10.66667,0 h 10.66667 v 10.66666 H 160 Z m 21.33333,0 H 192 v 10.66666 h -10.66667 z m 10.66667,0 h 10.66667 v 10.66666 H 192 Z m 10.66667,0 h 10.66666 v 10.66666 h -10.66666 z m 10.66666,0 H 224 v 10.66666 h -10.66667 z m 10.66667,0 h 10.66667 v 10.66666 H 224 Z m 21.33333,0 H 256 v 10.66666 h -10.66667 z m 10.66667,0 h 10.66667 v 10.66666 H 256 Z M 21.333333,117.33333 H 32 V 128 H 21.333333 Z m 10.666667,0 H 42.666667 V 128 H 32 Z m 10.666667,0 H 53.333333 V 128 H 42.666667 Z m 53.333333,0 h 10.66667 V 128 H 96 Z m 10.66667,0 h 10.66666 V 128 h -10.66666 z m 10.66666,0 H 128 V 128 h -10.66667 z m 32,0 H 160 V 128 h -10.66667 z m 32,0 H 192 V 128 h -10.66667 z m 21.33334,0 h 10.66666 V 128 h -10.66666 z m 53.33333,0 h 10.66667 V 128 H 256 Z M 0,128 h 10.666667 v 10.66667 H 0 Z m 10.666667,0 h 10.666666 v 10.66667 H 10.666667 Z M 32,128 h 10.666667 v 10.66667 H 32 Z m 10.666667,0 h 10.666666 v 10.66667 H 42.666667 Z m 10.666666,0 H 64 v 10.66667 H 53.333333 Z M 64,128 h 10.666667 v 10.66667 H 64 Z m 10.666667,0 h 10.666666 v 10.66667 H 74.666667 Z m 10.666666,0 H 96 v 10.66667 H 85.333333 Z M 96,128 h 10.66667 v 10.66667 H 96 Z m 21.33333,0 H 128 v 10.66667 h -10.66667 z m 53.33334,0 h 10.66666 v 10.66667 H 170.66667 Z M 192,128 h 10.66667 v 10.66667 H 192 Z m 10.66667,0 h 10.66666 v 10.66667 h -10.66666 z m 10.66666,0 H 224 v 10.66667 h -10.66667 z m 21.33334,0 h 10.66666 v 10.66667 h -10.66666 z m 10.66666,0 H 256 v 10.66667 H 245.33333 Z M 256,128 h 10.66667 v 10.66667 H 256 Z M 0,138.66667 h 10.666667 v 10.66666 H 0 Z m 21.333333,0 H 32 v 10.66666 H 21.333333 Z m 53.333334,0 h 10.666666 v 10.66666 H 74.666667 Z m 32.000003,0 h 10.66666 v 10.66666 h -10.66666 z m 21.33333,0 h 10.66667 v 10.66666 H 128 Z m 10.66667,0 h 10.66666 v 10.66666 h -10.66666 z m 32,0 h 10.66666 v 10.66666 h -10.66666 z m 32,0 h 10.66666 v 10.66666 h -10.66666 z m 21.33333,0 h 10.66667 v 10.66666 H 224 Z m 21.33333,0 H 256 v 10.66666 H 245.33333 Z M 0,149.33333 H 10.666667 V 160 H 0 Z m 64,0 H 74.666667 V 160 H 64 Z m 32,0 h 10.66667 V 160 H 96 Z m 42.66667,0 h 10.66666 V 160 h -10.66666 z m 10.66666,0 H 160 V 160 h -10.66667 z m 10.66667,0 h 10.66667 V 160 H 160 Z m 21.33333,0 H 192 V 160 h -10.66667 z m 21.33334,0 h 10.66666 V 160 h -10.66666 z m 10.66666,0 H 224 V 160 h -10.66667 z m 10.66667,0 h 10.66667 V 160 H 224 Z m 21.33333,0 H 256 V 160 h -10.66667 z m 10.66667,0 h 10.66667 V 160 H 256 Z M 0,160 h 10.666667 v 10.66667 H 0 Z m 21.333333,0 H 32 v 10.66667 H 21.333333 Z m 32,0 H 64 v 10.66667 H 53.333333 Z m 21.333334,0 h 10.666666 v 10.66667 H 74.666667 Z m 10.666666,0 H 96 v 10.66667 H 85.333333 Z M 96,160 h 10.66667 v 10.66667 H 96 Z m 32,0 h 10.66667 v 10.66667 H 128 Z m 10.66667,0 h 10.66666 v 10.66667 H 138.66667 Z M 160,160 h 10.66667 v 10.66667 H 160 Z m 10.66667,0 h 10.66666 v 10.66667 h -10.66666 z m 32,0 h 10.66666 v 10.66667 H 202.66667 Z M 224,160 h 10.66667 v 10.66667 H 224 Z m 32,0 h 10.66667 v 10.66667 H 256 Z M 0,170.66667 h 10.666667 v 10.66666 H 0 Z m 21.333333,0 H 32 v 10.66666 H 21.333333 Z m 10.666667,0 h 10.666667 v 10.66666 H 32 Z m 10.666667,0 h 10.666666 v 10.66666 H 42.666667 Z m 10.666666,0 H 64 v 10.66666 H 53.333333 Z m 10.666667,0 h 10.666667 v 10.66666 H 64 Z m 32,0 h 10.66667 v 10.66666 H 96 Z m 10.66667,0 h 10.66666 v 10.66666 h -10.66666 z m 21.33333,0 h 10.66667 v 10.66666 H 128 Z m 21.33333,0 H 160 v 10.66666 h -10.66667 z m 10.66667,0 h 10.66667 v 10.66666 H 160 Z m 10.66667,0 h 10.66666 v 10.66666 h -10.66666 z m 10.66666,0 H 192 v 10.66666 h -10.66667 z m 10.66667,0 h 10.66667 v 10.66666 H 192 Z m 10.66667,0 h 10.66666 v 10.66666 h -10.66666 z m 10.66666,0 H 224 v 10.66666 h -10.66667 z m 21.33334,0 h 10.66666 v 10.66666 H 234.66667 Z M 85.333333,181.33333 H 96 V 192 H 85.333333 Z m 21.333337,0 h 10.66666 V 192 h -10.66666 z m 64,0 h 10.66666 V 192 h -10.66666 z m 42.66666,0 H 224 V 192 h -10.66667 z m 10.66667,0 h 10.66667 V 192 H 224 Z m 10.66667,0 h 10.66666 V 192 H 234.66667 Z M 0,192 h 10.666667 v 10.66667 H 0 Z m 10.666667,0 h 10.666666 v 10.66667 H 10.666667 Z m 10.666666,0 H 32 v 10.66667 H 21.333333 Z M 32,192 h 10.666667 v 10.66667 H 32 Z m 10.666667,0 h 10.666666 v 10.66667 H 42.666667 Z m 10.666666,0 H 64 v 10.66667 H 53.333333 Z M 64,192 h 10.666667 v 10.66667 H 64 Z m 21.333333,0 H 96 v 10.66667 H 85.333333 Z M 96,192 h 10.66667 v 10.66667 H 96 Z m 10.66667,0 h 10.66666 v 10.66667 h -10.66666 z m 10.66666,0 H 128 v 10.66667 H 117.33333 Z M 128,192 h 10.66667 v 10.66667 H 128 Z m 42.66667,0 h 10.66666 v 10.66667 H 170.66667 Z M 192,192 h 10.66667 v 10.66667 H 192 Z m 21.33333,0 H 224 v 10.66667 H 213.33333 Z M 224,192 h 10.66667 v 10.66667 H 224 Z m 10.66667,0 h 10.66666 v 10.66667 h -10.66666 z m 10.66666,0 H 256 v 10.66667 H 245.33333 Z M 256,192 h 10.66667 v 10.66667 H 256 Z M 0,202.66667 h 10.666667 v 10.66666 H 0 Z m 64,0 h 10.666667 v 10.66666 H 64 Z m 32,0 h 10.66667 v 10.66666 H 96 Z m 10.66667,0 h 10.66666 v 10.66666 h -10.66666 z m 10.66666,0 H 128 v 10.66666 h -10.66667 z m 32,0 H 160 v 10.66666 h -10.66667 z m 21.33334,0 h 10.66666 v 10.66666 h -10.66666 z m 42.66666,0 H 224 v 10.66666 h -10.66667 z m 10.66667,0 h 10.66667 v 10.66666 H 224 Z m 32,0 h 10.66667 v 10.66666 H 256 Z M 0,213.33333 H 10.666667 V 224 H 0 Z m 21.333333,0 H 32 V 224 H 21.333333 Z m 10.666667,0 H 42.666667 V 224 H 32 Z m 10.666667,0 H 53.333333 V 224 H 42.666667 Z m 21.333333,0 H 74.666667 V 224 H 64 Z m 21.333333,0 H 96 V 224 H 85.333333 Z m 10.666667,0 h 10.66667 V 224 H 96 Z m 21.33333,0 H 128 V 224 h -10.66667 z m 42.66667,0 h 10.66667 V 224 H 160 Z m 10.66667,0 h 10.66666 V 224 h -10.66666 z m 10.66666,0 H 192 V 224 h -10.66667 z m 10.66667,0 h 10.66667 V 224 H 192 Z m 10.66667,0 h 10.66666 V 224 h -10.66666 z m 10.66666,0 H 224 V 224 h -10.66667 z m 10.66667,0 h 10.66667 V 224 H 224 Z m 10.66667,0 h 10.66666 V 224 h -10.66666 z m 10.66666,0 H 256 V 224 h -10.66667 z m 10.66667,0 h 10.66667 V 224 H 256 Z M 0,224 h 10.666667 v 10.66667 H 0 Z m 21.333333,0 H 32 v 10.66667 H 21.333333 Z M 32,224 h 10.666667 v 10.66667 H 32 Z m 10.666667,0 h 10.666666 v 10.66667 H 42.666667 Z M 64,224 h 10.666667 v 10.66667 H 64 Z m 21.333333,0 H 96 v 10.66667 H 85.333333 Z M 96,224 h 10.66667 v 10.66667 H 96 Z m 32,0 h 10.66667 v 10.66667 H 128 Z m 10.66667,0 h 10.66666 v 10.66667 h -10.66666 z m 10.66666,0 H 160 v 10.66667 h -10.66667 z m 32,0 H 192 v 10.66667 H 181.33333 Z M 192,224 h 10.66667 v 10.66667 H 192 Z m 10.66667,0 h 10.66666 v 10.66667 h -10.66666 z m 10.66666,0 H 224 v 10.66667 h -10.66667 z m 21.33334,0 h 10.66666 v 10.66667 h -10.66666 z m 10.66666,0 H 256 v 10.66667 H 245.33333 Z M 256,224 h 10.66667 v 10.66667 H 256 Z M 0,234.66667 h 10.666667 v 10.66666 H 0 Z m 21.333333,0 H 32 v 10.66666 H 21.333333 Z m 10.666667,0 h 10.666667 v 10.66666 H 32 Z m 10.666667,0 h 10.666666 v 10.66666 H 42.666667 Z m 21.333333,0 h 10.666667 v 10.66666 H 64 Z m 21.333333,0 H 96 v 10.66666 H 85.333333 Z m 53.333337,0 h 10.66666 v 10.66666 h -10.66666 z m 10.66666,0 H 160 v 10.66666 h -10.66667 z m 53.33334,0 h 10.66666 v 10.66666 h -10.66666 z m 32,0 h 10.66666 v 10.66666 h -10.66666 z m 21.33333,0 h 10.66667 v 10.66666 H 256 Z M 0,245.33333 H 10.666667 V 256 H 0 Z m 64,0 H 74.666667 V 256 H 64 Z m 21.333333,0 H 96 V 256 H 85.333333 Z m 10.666667,0 h 10.66667 V 256 H 96 Z m 32,0 h 10.66667 V 256 H 128 Z m 10.66667,0 h 10.66666 V 256 h -10.66666 z m 21.33333,0 h 10.66667 V 256 H 160 Z m 10.66667,0 h 10.66666 V 256 h -10.66666 z m 10.66666,0 H 192 V 256 h -10.66667 z m 21.33334,0 h 10.66666 V 256 h -10.66666 z m 10.66666,0 H 224 V 256 h -10.66667 z m 10.66667,0 h 10.66667 V 256 H 224 Z m 32,0 h 10.66667 V 256 H 256 Z M 0,256 h 10.666667 v 10.66667 H 0 Z m 10.666667,0 h 10.666666 v 10.66667 H 10.666667 Z m 10.666666,0 H 32 v 10.66667 H 21.333333 Z M 32,256 h 10.666667 v 10.66667 H 32 Z m 10.666667,0 h 10.666666 v 10.66667 H 42.666667 Z m 10.666666,0 H 64 v 10.66667 H 53.333333 Z M 64,256 h 10.666667 v 10.66667 H 64 Z m 21.333333,0 H 96 v 10.66667 H 85.333333 Z M 96,256 h 10.66667 v 10.66667 H 96 Z m 32,0 h 10.66667 v 10.66667 H 128 Z m 21.33333,0 H 160 v 10.66667 h -10.66667 z m 53.33334,0 h 10.66666 v 10.66667 h -10.66666 z m 10.66666,0 H 224 v 10.66667 H 213.33333 Z M 224,256 h 10.66667 v 10.66667 H 224 Z m 10.66667,0 h 10.66666 v 10.66667 h -10.66666 z m 10.66666,0 H 256 v 10.66667 H 245.33333 Z M 256,256 h 10.66667 v 10.66667 H 256 Z"
+           style="fill:#000000;stroke-width:1.06666672"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.33247185px;line-height:125%;font-family:unifont;-inkscape-font-specification:'unifont, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02077961px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="553.15228"
+         y="205.74731"
+         id="text915"
+         transform="scale(0.97964341,1.0207796)"><tspan
+           sodipodi:role="line"
+           id="tspan913"
+           x="561.31854"
+           y="205.74731"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.33247185px;font-family:unifont;-inkscape-font-specification:'unifont, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:1.02077961px">aktuelle Veranstaltungen unter </tspan><tspan
+           sodipodi:role="line"
+           x="553.15228"
+           y="226.1629"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.33247185px;font-family:unifont;-inkscape-font-specification:'unifont, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:1.02077961px"
+           id="tspan917">www.netz39.de/events</tspan></text>
+    </g>
+    <text
+       transform="matrix(1,0,0,0.95970132,-8.8212605,10.110259)"
+       id="text4517"
+       y="93.199966"
+       x="540.96191"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:unifont;-inkscape-font-specification:'unifont Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       xml:space="preserve"><tspan
+         style="font-size:12.71001053px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+         y="93.199966"
+         x="540.96191"
+         id="tspan4519"
+         sodipodi:role="line">++ 3D-Druck ++ Löten ++ Linux ++ Freifunk ++</tspan><tspan
+         style="font-size:12.71001053px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+         id="tspan4521"
+         y="109.08748"
+         x="540.96191"
+         sodipodi:role="line"> ++ Platinendesign ++ Cryptoparty ++ TechTalk ++</tspan><tspan
+         style="font-size:12.71001053px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+         id="tspan4523"
+         y="124.97499"
+         x="540.96191"
+         sodipodi:role="line">++ Holzwerkstatt ++ CNC-Fräse ++ Multicopter ++</tspan><tspan
+         style="font-size:12.71001053px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+         id="tspan4525"
+         y="140.8625"
+         x="540.96191"
+         sodipodi:role="line"> ++ Nähmaschine ++ Coden ++ SocialSoljanka ++</tspan><tspan
+         id="tspan4527"
+         style="font-size:12.71001053px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:1.06666672"
+         y="156.75002"
+         x="540.96191"
+         sodipodi:role="line">++ Raumschiffparkplatz ++ Luftschlossdesign ++</tspan></text>
+  </g>
+</svg>
