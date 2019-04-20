@@ -16,7 +16,7 @@
 \RequirePackage{calc}
 \RequirePackage[absolute]{textpos}
 \RequirePackage[german]{babel}
-\ProvidesClass{netz39}[Netz39 e.V. Information]
+\ProvidesClass{netz39}[2019/04/16 v1.0 Netz39 e.V.]
 \setlist{nosep}
 
 \newif\if@flyer
