@@ -1,7 +1,7 @@
 LateX-Template für Netz39 e.V. Flyer und Poster
 ===============================================
 
-Für korrekte Darstellung der Schriftarten mit xelatex kompilieren!
+Für korrekte Darstellung der Schriftarten mit **xelatex** kompilieren!
 
 Benutzte Schriftarten:
 
