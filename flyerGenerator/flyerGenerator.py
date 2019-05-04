@@ -1,25 +1,19 @@
-import datetime, icalendar, requests, re
-from icalevents.icalevents import events
-import jinja2, locale
-import os
-from jinja2 import Template
+import jinja2, locale, tempfile, shutil, os, icalendar, requests, re, sys, math
+#from jinja2 import Template
 from subprocess import Popen
-import tempfile
-import shutil
-import sys
-# -*- coding: iso-8859-1 -*-
+from icalevents.icalevents import events
+from datetime import date, datetime, time
+from babel import dates
+locale.setlocale(locale.LC_ALL, '')
 
 # netz39 events feed
 url = 'http://www.netz39.de/feed/eo-events/'
 # show events for the next two months
 monthRange = 2
 # start end dates for filtering
-start = datetime.date.today().replace(day=1)
-end = start.replace(month=(start.month+monthRange)%12) # TODO: fix bug for year transition
-#locale.setlocale(locale.LC_ALL, 'de_DE') # TODO: setting locale breaks icalevents read
-
-# variables for jinja2 tex template
-subtitle = start.strftime("%B") + "|" + end.strftime("%B")
+start = date.today().replace(day=1)
+end = start.replace(month=(start.month+monthRange)%12) # TODO: year transition
+subtitle = dates.format_date(start, 'MMMM', locale='de_DE') + "|" + dates.format_date(end, 'MMMM', locale='de_DE')
 entries = []
 
 # format year(s) for headline
@@ -28,11 +22,11 @@ if start.strftime("%Y") == end.strftime("%Y"):
 else:
   year = start.strftime("%Y")+"|"+end.strftime("%y")
 
-class entry: # TODO: put in extra file
+class entry:
   def __init__(self,title,description):
     self.title=title.lstrip()
     self.description=description.lstrip()
-    self.dates=[] # reocuring events are represented as list of dates
+    self.dates=[] # recurring events are represented as list of dates
 
 def contains(list, filter):
     for x in list:
@@ -79,7 +73,7 @@ def compile_tex(rendered_tex, out_pdf_path):
 
 # compile for both template options
 for doctype in ['flyer','poster']:
-  filename = doctype+'_'+start.strftime("%B") + "_" + end.strftime("%B")+'_'+year
+  filename = doctype+'_'+start.strftime("%B") + "_" + end.strftime("%B")
   rendered_tex = template.render(docclass=doctype,subtitle=subtitle,year=year,entries=entries)
   out_path = os.path.join(os.getcwd(), filename+'.pdf')
   compile_tex(rendered_tex, out_path)
