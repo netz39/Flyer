@@ -17,7 +17,8 @@ subtitle = start.strftime("%B") + "|" + end.strftime("%B") + " " + start.strftim
 
 if start.year != end.year:
   subtitle+="|"+end.strftime("%y")
-  year = start.strftime("%Y")+"|"+end.strftime("%y")
+
+
 
 class entry:
   def __init__(self,title,description):
@@ -70,8 +71,8 @@ def compile_tex(rendered_tex, out_pdf_path):
 
 # compile with both template options
 for doctype in ['flyer','poster']:
-  filename = doctype+'_'+start.strftime("%B") + "_" + end.strftime("%B")
-  rendered_tex = template.render(docclass=doctype,subtitle=subtitle,year=year,entries=entries)
+  filename = doctype + '_' + re.sub('[^0-9a-zA-Z]+', '_', subtitle)
+  rendered_tex = template.render(docclass=doctype,subtitle=subtitle,entries=entries)
   out_path = os.path.join(os.getcwd(), filename+'.pdf')
   compile_tex(rendered_tex, out_path)
 
