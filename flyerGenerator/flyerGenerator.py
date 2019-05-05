@@ -58,21 +58,29 @@ latex_jinja_env = jinja2.Environment(
 
 template = latex_jinja_env.get_template('jinja2_template.tex')
 
-def compile_tex(rendered_tex, out_pdf_path):
+def compile_tex():
     tmp_dir = tempfile.mkdtemp()
-    in_tmp_path = os.path.join(tmp_dir, 'rendered.tex')
-    with open(in_tmp_path, 'w', encoding='utf8') as outfile:
-        outfile.write(rendered_tex)
-    out_tmp_path = os.path.join(tmp_dir, 'out.pdf')
-    p = Popen(['xelatex', in_tmp_path, '-job-name', 'out', '-output-directory', tmp_dir])
-    p.communicate()
-    shutil.copy(out_tmp_path, out_pdf_path)
-    shutil.rmtree(tmp_dir)
+    for doctype in ['flyer','poster']:
+        filename = doctype + '_' + re.sub('[^0-9a-zA-Z]+', '_', subtitle)
+        in_tmp_path = os.path.join(tmp_dir, filename+'.tex')
+        out_tmp_path = os.path.join(tmp_dir, filename+'.pdf')
+        out_pdf_path = os.path.join(os.getcwd(), filename+'.pdf')
+        rendered_tex = template.render(docclass=doctype,subtitle=subtitle,entries=entries)
+        with open(in_tmp_path, 'w', encoding='utf8') as outfile:
+            outfile.write(rendered_tex)
+        print(in_tmp_path)
+        print(tmp_dir)
+        p = Popen(['xelatex', in_tmp_path, '-job-name', filename, '-output/-directory', tmp_dir])
+        p.communicate()
+        #shutil.copy(out_tmp_path, out_pdf_path)
+    #shutil.rmtree(tmp_dir)
+
+compile_tex()
 
 # compile with both template options
-for doctype in ['flyer','poster']:
-  filename = doctype + '_' + re.sub('[^0-9a-zA-Z]+', '_', subtitle)
-  rendered_tex = template.render(docclass=doctype,subtitle=subtitle,entries=entries)
-  out_path = os.path.join(os.getcwd(), filename+'.pdf')
-  compile_tex(rendered_tex, out_path)
-
+#for doctype in ['flyer','poster']:
+#  filename = doctype + '_' + re.sub('[^0-9a-zA-Z]+', '_', subtitle)
+#  rendered_tex = template.render(docclass=doctype,subtitle=subtitle,entries=entries)
+  #print(rendered_tex)
+#  out_path = os.path.join(os.getcwd(), filename+'.pdf')
+#  compile_tex(rendered_tex, out_path, filename)
