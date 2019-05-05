@@ -10,8 +10,7 @@ url = 'http://www.netz39.de/feed/eo-events/'
 monthRange = 2
 # start end dates for filtering
 start = date.today().replace(day=1)
-end = start.replace(month=(start.month+monthRange)%12) # TODO: year transition
-subtitle = dates.format_date(start, 'MMMM', locale='de_DE') + "|" + dates.format_date(end, 'MMMM', locale='de_DE')
+end = start.replace(year=start.year+int((start.month+monthRange-1)/12),month=(((start.month-1)+monthRange)%12)+1) #date fuu
 entries = []
 
 # format year(s) for headline
