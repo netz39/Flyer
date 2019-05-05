@@ -1,9 +1,7 @@
-import jinja2, locale, tempfile, shutil, os, icalendar, requests, re, sys, math
-#from jinja2 import Template
+import jinja2, locale, tempfile, shutil, os, sys, re
 from subprocess import Popen
 from icalevents.icalevents import events
-from datetime import date, datetime, time
-from babel import dates
+from datetime import date
 locale.setlocale(locale.LC_ALL, '')
 
 # netz39 events feed
