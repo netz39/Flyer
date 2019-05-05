@@ -6,7 +6,7 @@ locale.setlocale(locale.LC_ALL, '')
 
 # netz39 events feed
 url = 'http://www.netz39.de/feed/eo-events/'
-# show events for the next two months
+# show events for the next x months
 monthRange = 2
 # start end dates for filtering
 start = date.today().replace(day=1)
@@ -24,7 +24,7 @@ class entry:
   def __init__(self,title,description):
     self.title=title.lstrip()
     self.description=description.lstrip()
-    self.dates=[] # recurring events are represented as list of dates
+    self.dates=[] # recurring events are represented event with multiple dates
 
 def contains(list, filter):
     for x in list:
@@ -69,7 +69,7 @@ def compile_tex(rendered_tex, out_pdf_path):
     shutil.copy(out_tmp_path, out_pdf_path)
     shutil.rmtree(tmp_dir)
 
-# compile for both template options
+# compile with both template options
 for doctype in ['flyer','poster']:
   filename = doctype+'_'+start.strftime("%B") + "_" + end.strftime("%B")
   rendered_tex = template.render(docclass=doctype,subtitle=subtitle,year=year,entries=entries)
