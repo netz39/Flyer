@@ -13,10 +13,10 @@ start = date.today().replace(day=1)
 end = start.replace(year=start.year+int((start.month+monthRange-1)/12),month=(((start.month-1)+monthRange)%12)+1) #date fuu
 entries = []
 
-# format year(s) for headline
-if start.strftime("%Y") == end.strftime("%Y"):
-  year = start.strftime("%Y")
-else:
+subtitle = start.strftime("%B") + "|" + end.strftime("%B") + " " + start.strftime("%Y")
+
+if start.year != end.year:
+  subtitle+="|"+end.strftime("%y")
   year = start.strftime("%Y")+"|"+end.strftime("%y")
 
 class entry:
