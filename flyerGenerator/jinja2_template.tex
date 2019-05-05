@@ -9,7 +9,7 @@
 
 \begin{document}
 	
-\title{Veranstaltungsübersicht}{\VAR{subtitle} \VAR{year}}
+\title{Veranstaltungsübersicht}{\VAR{subtitle}}
 
 \begin{about}
 	\section{Was ist der Netz39 e.V.?}
@@ -42,7 +42,11 @@ siehe auch www.netz39.de/events
 \BLOCK{ for entry in entries }
 \begin{entry}{\VAR{entry.title}}
 	\VAR{entry.description}
+	%% if entry.dates|length > 1
 	\begin{events}{Nächste Termine}
+	%% else
+	\begin{events}{Nächster Termin}
+	%% endif
 		%% for date in entry.dates
 		\event \VAR{date}
 		%% endfor
