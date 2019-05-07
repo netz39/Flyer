@@ -70,7 +70,7 @@ def compile_tex():
             outfile.write(rendered_tex)
         print(in_tmp_path)
         print(tmp_dir)
-        p = Popen(['xelatex', in_tmp_path, '-job-name', filename, '-output/-directory', tmp_dir])
+        p = Popen(['xelatex', in_tmp_path, '-job-name', filename, '-output/-directory', tmp_dir, '-shell-escape'])
         p.communicate()
         #shutil.copy(out_tmp_path, out_pdf_path)
     #shutil.rmtree(tmp_dir)
