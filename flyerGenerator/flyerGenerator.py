@@ -1,4 +1,4 @@
-import jinja2, locale, tempfile, shutil, os, sys, re
+import jinja2, locale, shutil, os, sys, re
 from subprocess import Popen
 from icalevents.icalevents import events
 from datetime import date
@@ -14,11 +14,8 @@ end = start.replace(year=start.year+int((start.month+monthRange-1)/12),month=(((
 entries = []
 
 subtitle = start.strftime("%B") + "|" + end.strftime("%B") + " " + start.strftime("%Y")
-
 if start.year != end.year:
   subtitle+="|"+end.strftime("%y")
-
-
 
 class entry:
   def __init__(self,title,description):
@@ -32,7 +29,7 @@ def contains(list, filter):
             return True
     return False
 
-# read from url and store as entires
+# read from url and store as entries
 es = events(url,None,None,start,end)
 for event in es:
   if not contains(entries, lambda x: x.title == event.summary.lstrip()):
@@ -42,6 +39,7 @@ for event in es:
   else:
     next(entry for entry in entries if entry.title==event.summary.lstrip()).dates.append(event.start.strftime("%d. %B %Y (%H:%M Uhr)"))
 
+# prepare jinja environment for use with .tex
 latex_jinja_env = jinja2.Environment(
 	block_start_string = '\BLOCK{',
 	block_end_string = '}',
@@ -58,29 +56,23 @@ latex_jinja_env = jinja2.Environment(
 
 template = latex_jinja_env.get_template('jinja2_template.tex')
 
-def compile_tex():
-    tmp_dir = tempfile.mkdtemp()
-    for doctype in ['flyer','poster']:
-        filename = doctype + '_' + re.sub('[^0-9a-zA-Z]+', '_', subtitle)
-        in_tmp_path = os.path.join(tmp_dir, filename+'.tex')
-        out_tmp_path = os.path.join(tmp_dir, filename+'.pdf')
-        out_pdf_path = os.path.join(os.getcwd(), filename+'.pdf')
-        rendered_tex = template.render(docclass=doctype,subtitle=subtitle,entries=entries)
-        with open(in_tmp_path, 'w', encoding='utf8') as outfile:
-            outfile.write(rendered_tex)
-        print(in_tmp_path)
-        print(tmp_dir)
-        p = Popen(['xelatex', in_tmp_path, '-job-name', filename, '-output/-directory', tmp_dir, '-shell-escape'])
-        p.communicate()
-        #shutil.copy(out_tmp_path, out_pdf_path)
-    #shutil.rmtree(tmp_dir)
-
-compile_tex()
-
-# compile with both template options
-#for doctype in ['flyer','poster']:
-#  filename = doctype + '_' + re.sub('[^0-9a-zA-Z]+', '_', subtitle)
-#  rendered_tex = template.render(docclass=doctype,subtitle=subtitle,entries=entries)
-  #print(rendered_tex)
-#  out_path = os.path.join(os.getcwd(), filename+'.pdf')
-#  compile_tex(rendered_tex, out_path, filename)
+# create pdf for each template option
+for doctype in ['flyer','poster']:
+  filename = doctype + '_' + re.sub('[^0-9a-zA-Z]+', '_', subtitle)
+  # xelatex (ubuntu) ignores '-output-directory', so no proper use of a temp-dir here
+  in_path = os.path.join(os.getcwd(), filename+'.tex')
+  out_path = os.path.join(os.getcwd(), filename+'.pdf')
+  # build tex
+  rendered_tex = template.render(docclass=doctype,subtitle=subtitle,entries=entries)
+  with open(in_path, 'w', encoding='utf8') as outfile:
+      outfile.write(rendered_tex)
+  # build pdf
+  p = Popen(['xelatex', in_path, '-job-name', filename])
+  p.communicate()
+  # cleanup
+  output_folder = 'out'
+  shutil.move(out_path, os.path.join(os.getcwd(), output_folder, filename+'.pdf'))
+  for ext in ['tex','aux','log']:
+    file = os.path.join(os.getcwd(),filename+'.'+ext)
+    if os.path.exists(file):
+      os.remove(file)
