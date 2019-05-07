@@ -70,8 +70,11 @@ for doctype in ['flyer','poster']:
   p = Popen(['xelatex', in_path, '-job-name', filename])
   p.communicate()
   # cleanup
-  output_folder = 'out'
-  shutil.move(out_path, os.path.join(os.getcwd(), output_folder, filename+'.pdf'))
+  output_folder_name = 'out'
+  output_folder = os.path.join(os.getcwd(), output_folder_name)
+  if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
+  shutil.move(out_path, os.path.join(output_folder, filename+'.pdf'))
   for ext in ['tex','aux','log']:
     file = os.path.join(os.getcwd(),filename+'.'+ext)
     if os.path.exists(file):
