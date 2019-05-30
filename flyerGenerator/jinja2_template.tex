@@ -1,0 +1,58 @@
+% compile with XeLaTex for font support!
+% Font licenses:
+% OpenSans published under Apache License Version 2.0, for more details see \ressources\fonts\open-sans\Apache License.txt or https://www.apache.org/licenses/LICENSE-2.0
+% PoliticsHead by Fred Bordfeld published under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, for more details see \ressources\fonts\PoliticsHead\CC_by_nc_nd Licence.txt or https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+%\documentclass[flyer]{../LatexTemplate/netz39} % DIN A4, tri-fold
+%\documentclass[poster]{netz39} % DIN A3, one-sided
+\documentclass[\VAR{docclass}]{../LatexTemplate/netz39} % DIN A4, tri-fold
+
+\begin{document}
+	
+\title{Veranstaltungsübersicht}{\VAR{subtitle}}
+
+\begin{about}
+	\section{Was ist der Netz39 e.V.?}
+Netz39 e.V. ist ein gemeinnütziger Verein, in dem es ums Selbermachen und Reparieren und ganz allgemein um Spaß an Technik geht. Wir machen alles Mögliche, von 3D-Druck über Elektronik, Programmieren, unsere Fahrräder flicken (viel zu oft), Möbel bauen bis Nähen. 
+
+Man darf einfach reinkommen und sich das anschauen! Wirklich! Es gibt keine regelmäßigen Öffnungszeiten, aber sehr oft ist ab nachmittags bis abends jemand da. Man kann auch auf der Website sehen, ob offen ist.
+
+Die Räumlichkeiten und Geräte werden von den Mitgliedern des Vereins finanziert. Gäste können die Infrastruktur nach Absprache nutzen, eine Mitgliedschaft ist aber gerne gesehen, um die Räumlichkeiten und Ausstattung langfristig zu erhalten und auszubauen. Der monatliche Beitrag liegt für Vollzahler bei 30 Euro und für Studenten etc. bei 10 Euro. Wir freuen uns natürlich auch über Fördermitgliedschaften und Spenden!
+
+Auch alle Veranstaltungen sind grundsätzlich offen für Gäste.
+\end{about}
+
+\begin{contact}
+	\section{Kontakt}
+	\textbf{E-Mail:} kontakt@netz39.de\\
+	\textbf{Chat (XMPP):} lounge@conference.jabber.n39.eu\\
+	\textbf{Twitter:} @netz39\\
+	\textbf{WWW:} http://www.netz39.de\\
+	\textbf{RealLife:} Netz39 e.V.\\
+	Leibnizstraße 32\\
+	39104 Magdeburg\\\\
+	V.i.S.d.P.: Tatjana Ruhl
+\end{contact}
+
+
+\begin{entry}{Veranstaltungen}
+siehe auch www.netz39.de/events
+\end{entry}
+
+\BLOCK{ for entry in entries }
+\begin{entry}{\VAR{entry.title}}
+	\VAR{entry.description}
+	%% if entry.dates|length > 1
+	\begin{events}{Nächste Termine}
+	%% else
+	\begin{events}{Nächster Termin}
+	%% endif
+		%% for date in entry.dates
+		\event \VAR{date}
+		%% endfor
+	\end{events}
+\end{entry}
+
+\BLOCK{ endfor }
+
+\end{document}
